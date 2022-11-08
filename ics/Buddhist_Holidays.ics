@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Buddhist Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Bodhi Day
+DTSTART:20220110
+DTEND:20220110
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/bodhi-day.php to know more about Bodhi Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa38a11667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahayana New Year
+DTSTART:20220118
+DTEND:20220118
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/mahayana-new-year.php to know more about Mahayana New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa391e1667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chinese New Year
+DTSTART:20220201
+DTEND:20220201
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa398f1667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nirvana Day
+DTSTART:20220215
+DTEND:20220215
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/nirvana-day.php to know more about Nirvana Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa39fd1667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magha Puja Day
+DTSTART:20220216
+DTEND:20220216
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/magha-puja-day.php to know more about Magha Puja Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3a6a1667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theravada New Year
+DTSTART:20220416
+DTEND:20220416
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/theravada-new-year.php to know more about Theravada New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3ad91667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vesak - Buddha Day
+DTSTART:20220516
+DTEND:20220516
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/vesak-day.php to know more about Vesak - Buddha Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3b471667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asala - Dharma Day
+DTSTART:20220713
+DTEND:20220713
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/asala-dharma-day.php to know more about Asala - Dharma Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3bb51667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obon
+DTSTART:20220813
+DTEND:20220813
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/obon.php to know more about Obon. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3c251667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahayana New Year
+DTSTART:20230107
+DTEND:20230107
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/mahayana-new-year.php to know more about Mahayana New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3c991667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chinese New Year
+DTSTART:20230122
+DTEND:20230122
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3d0a1667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nirvana Day
+DTSTART:20230215
+DTEND:20230215
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/nirvana-day.php to know more about Nirvana Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3d7d1667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magha Puja Day
+DTSTART:20230306
+DTEND:20230306
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/magha-puja-day.php to know more about Magha Puja Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3def1667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theravada New Year
+DTSTART:20230406
+DTEND:20230406
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/theravada-new-year.php to know more about Theravada New Year. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3e611667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vesak - Buddha Day
+DTSTART:20230519
+DTEND:20230519
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/vesak-day.php to know more about Vesak - Buddha Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3ed31667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asala - Dharma Day
+DTSTART:20230703
+DTEND:20230703
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/asala-dharma-day.php to know more about Asala - Dharma Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3f481667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obon
+DTSTART:20230813
+DTEND:20230813
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/obon.php to know more about Obon. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa3fbb1667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodhi Day
+DTSTART:20231208
+DTEND:20231208
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/buddhist/bodhi-day.php to know more about Bodhi Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a2c2aa40121667902506@calendarlabs.com
+DTSTAMP:20221108T101506Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
